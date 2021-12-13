@@ -1,2 +1,3 @@
-f27b4960575efb31ff05ddedd8b62f68
+[sheroes]
+granted = f27b4960575efb31ff05ddedd8b62f68,f754365gff68
 
